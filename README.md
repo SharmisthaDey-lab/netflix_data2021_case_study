@@ -29,6 +29,11 @@ The data is available in a single csv file :
 - Listed_in: Genre
 - Description: The summary description
 
+Dashboard Visuals - [Tableau](https://public.tableau.com/views/NetflixData1925-2021BusinessCaseStudy/NetflixMoviesTvShowsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1249" height="999" alt="Netflix Movies   Tv Shows Dashboard" src="https://github.com/user-attachments/assets/ff9d5a34-a5e4-47ff-a63d-29c7b507ab87" />
+
+
 Executive Summary - Netflix Content Strategy
 
 1. **Netflix Core Library Structure**
